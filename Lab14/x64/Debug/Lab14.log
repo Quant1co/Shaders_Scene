@@ -1,0 +1,16 @@
+﻿  glad.c
+  Camera.cpp
+  main.cpp
+  Model.cpp
+D:\CompGraf\Lab14\Lab14\Camera.h(2,10): error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  (компиляция исходного файла "Camera.cpp")
+  
+D:\CompGraf\Lab14\Lab14\main.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Window.hpp: No such file or directory,
+D:\CompGraf\Lab14\Lab14\Model.h(4,10): error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  (компиляция исходного файла "Model.cpp")
+  
+  Shader.cpp
+D:\CompGraf\Lab14\Lab14\Shader.h(3,10): error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  (компиляция исходного файла "Shader.cpp")
+  
+  Создание кода...
